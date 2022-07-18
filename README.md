@@ -2,7 +2,7 @@
 
 - 🌍 I'm a digital nomad.
 - 🐍 I'm looking for a job.
-- 🤖 Most of the time I write in Python and -J-a-v-a-s-c-r-i-p-t- Typescript.
+- 🤖 Most of the time I write in Python and ~~Javascript~~ Typescript.
 - 🚀 I love working on many things at the same time. It helps me to be more productive.
 - ✉️ You can shoot me a DM on Telegram - [@ziggerzz](https://t.me/ziggerzz).
 
